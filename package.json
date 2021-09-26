@@ -15,7 +15,9 @@
     "obs",
     "twitch"
   ],
-  "bugs": { "url": "https://github.com/stephenlb/twitch-tv-obs-subtitles/issues" },
+  "bugs": {
+    "url": "https://github.com/stephenlb/twitch-tv-obs-subtitles/issues"
+  },
   "dependencies": {
     "gulp": "4.0.0",
     "gulp-htmlmin": "4.0.0",
@@ -25,5 +27,9 @@
     "gulp-concat": "2.6.1",
     "gulp-wrapper": "1.0.0",
     "gulp-markers": "0.2.9"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
